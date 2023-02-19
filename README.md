@@ -11,3 +11,7 @@ These were the steps taken throughout the project:
 **Exploratory Data Analysis:** To get a better idea of the data and identify certain areas and trends to explore deeper into, a simple process of EDA was performed on the cleaned ecommerce product listing data.
 
 **Visualization:** Tableau was used to visualize the data.
+
+## Tableau Visualization on Watchbox E-commerce Products
+
+[Watchbox.pdf](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/files/10777898/Watchbox.pdf)
