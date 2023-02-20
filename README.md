@@ -1,10 +1,13 @@
-# WatchBox Ecommerce Data Analysis
-This project analyzes the popular second hand watch ecommerce products of WatchBox. The project involved data scraping, data cleaning, data manipulation and data manipulation. Tools that were used from the end to end of this project were Python and Tableau. The project mainly aimed to explore the trends in pricing and popularity of brands and watch lines in the second hand watch e-commerce market.
+# WatchBox Ecommerce Data Analysis (Python & Tableau)
+This project analyzes the popular second hand watch ecommerce products of WatchBox. The project involved data scraping, data cleaning, data manipulation and data manipulation. Tools that were used from the end to end of this project were Python and Tableau.
 
 ## About the Process: 
 These were the steps taken throughout the project: 
 
 **Data Scraping/Collection:** Using Python, I created a script that would scrape all the product listings and product details of the watches available in Watchbox's Singapore ecommerce page. The data was scraped with selenium and parsed with BeautifulSoup.
+
+- Check out my web scraping script [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Selenium%20Main%20Page%20Scraper.py)
+
 
 **Data Cleaning Scraped Data:** The scraped data had many inconsistencies thus was cleaned using mainly pandas library in Python.
 
@@ -14,9 +17,11 @@ These were the steps taken throughout the project:
 - Movements 
 - Manufactured Years Distribution
 
+
+- Check out my Jupyter Notebook demonstrating these processes [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/WatchBox%20Data%20Cleaning%20and%20Exploration.ipynb)
+
+
 **Visualization:** Tableau was used to visualize the data.
 
-## Tableau Visualization on Watchbox E-commerce Products
-
-Click to download visualization: [Watchbox Tableau Visualization.pdf](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/files/10784392/Watchbox.Tableau.Visualization.pdf)
+Check out my visualization [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Watchbox%20Tableau%20Visualization.pdf)
 
