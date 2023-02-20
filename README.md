@@ -22,5 +22,7 @@ Check out my web scraping script [here](https://github.com/yurijeon-g/Watchbox-E
 Check out my visualization [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Watchbox%20Tableau%20Visualization.pdf)
 
 Check out my Jupyter Notebook demonstrating these processes [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/WatchBox%20Data%20Cleaning%20and%20Exploration.ipynb)
+The data visualizations on the jupyter notebook may not be viewable on Github thus refer to the data exploration below.
+
 ![20230220_215632](https://user-images.githubusercontent.com/123054352/220115135-5bdc37a3-20fc-44df-966c-7d90b94950c8.png)
 
