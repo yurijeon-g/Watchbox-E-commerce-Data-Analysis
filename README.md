@@ -18,4 +18,5 @@ These were the steps taken throughout the project:
 
 ## Tableau Visualization on Watchbox E-commerce Products
 
-[Watchbox.pdf](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/files/10777898/Watchbox.pdf)
+Click to download visualization: [Watchbox Tableau Visualization.pdf](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/files/10784392/Watchbox.Tableau.Visualization.pdf)
+
