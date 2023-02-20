@@ -19,6 +19,7 @@ These were the steps taken throughout the project:
 
 
 - Check out my Jupyter Notebook demonstrating these processes [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/WatchBox%20Data%20Cleaning%20and%20Exploration.ipynb)
+![20230220_215632](https://user-images.githubusercontent.com/123054352/220115135-5bdc37a3-20fc-44df-966c-7d90b94950c8.png)
 
 
 **Visualization:** Tableau was used to visualize the data.
