@@ -6,7 +6,7 @@ These were the steps taken throughout the project:
 
 **Data Scraping/Collection:** Using Python, I created a script that would scrape all the product listings and product details of the watches available in Watchbox's Singapore ecommerce page. The data was scraped with selenium and parsed with BeautifulSoup.
 
-- Check out my web scraping script [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Selenium%20Main%20Page%20Scraper.py)
+Check out my web scraping script [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Selenium%20Main%20Page%20Scraper.py)
 
 
 **Data Cleaning Scraped Data:** The scraped data had many inconsistencies thus was cleaned using mainly pandas library in Python.
@@ -17,12 +17,10 @@ These were the steps taken throughout the project:
 - Movements 
 - Manufactured Years Distribution
 
-
-- Check out my Jupyter Notebook demonstrating these processes [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/WatchBox%20Data%20Cleaning%20and%20Exploration.ipynb)
-![20230220_215632](https://user-images.githubusercontent.com/123054352/220115135-5bdc37a3-20fc-44df-966c-7d90b94950c8.png)
-
-
 **Visualization:** Tableau was used to visualize the data.
 
 Check out my visualization [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/Watchbox%20Tableau%20Visualization.pdf)
+
+Check out my Jupyter Notebook demonstrating these processes [here](https://github.com/yurijeon-g/Watchbox-E-commerce-Data-Analysis/blob/main/WatchBox%20Data%20Cleaning%20and%20Exploration.ipynb)
+![20230220_215632](https://user-images.githubusercontent.com/123054352/220115135-5bdc37a3-20fc-44df-966c-7d90b94950c8.png)
 
