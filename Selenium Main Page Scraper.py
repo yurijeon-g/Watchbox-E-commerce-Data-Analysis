@@ -9,7 +9,7 @@ import pandas as pd
 
 options = webdriver.ChromeOptions()
 # Using selenium webdriver to automate scrolling down the page
-driver = webdriver.Chrome(chrome_options=options, executable_path='C:/Users/Yuri/Downloads/linkedin-jobs-scraper-main/chromedriver.exe')
+driver = webdriver.Chrome(chrome_options=options, executable_path='C:/Users/.....')
 driver.get("https://www.thewatchbox.com/sg/en/watches/shop/all-watches/")
 
 # Automatically scrolling down the page and clicking the "View More" button
