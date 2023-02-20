@@ -8,7 +8,11 @@ These were the steps taken throughout the project:
 
 **Data Cleaning Scraped Data:** The scraped data had many inconsistencies thus was cleaned using mainly pandas library in Python.
 
-**Exploratory Data Analysis:** To get a better idea of the data and identify certain areas and trends to explore deeper into, a simple process of EDA was performed on the cleaned ecommerce product listing data.
+**Exploratory Data Analysis:** To get a better idea of the data and identify certain areas and trends to explore deeper into, a simple process of EDA was performed on the cleaned ecommerce product listing data. Features that were mainly explored were
+- Brands
+- Pricing Distribution
+- Movements 
+- Manufactured Years Distribution
 
 **Visualization:** Tableau was used to visualize the data.
 
