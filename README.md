@@ -1,6 +1,10 @@
 # WatchBox Ecommerce Data Analysis (Python & Tableau)
 This project analyzes the popular second hand watch ecommerce products of WatchBox. The project involved data scraping, data cleaning, data manipulation and data manipulation. Tools that were used from the end to end of this project were Python and Tableau.
 
+## Aim
+Since COVID, the second hand watch industry has grown at an incredible pace with some declaring watches to now be an asset class of its own. 
+The aim of this project was to explore the drivers and popular features that contribute to popular watch brands and lines as well as explore preferences in watches between genders.
+
 ## About the Process: 
 These were the steps taken throughout the project: 
 
